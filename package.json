@@ -1,29 +1,26 @@
 {
-  "name": "emoji-match",
+  "name": "emoji-search",
   "version": "1.0.0",
-  "description": "Matching emoji by keyword",
+  "description": "Search emoji by keyword",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muan/emoji-match.git"
+    "url": "git+https://github.com/muan/emoji-search.git"
   },
   "keywords": [
     "emoji",
-    "search",
-    "match"
+    "search"
   ],
   "author": "Mu-An Chiou",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/muan/emoji-match/issues"
+    "url": "https://github.com/muan/emoji-search/issues"
   },
-  "homepage": "https://github.com/muan/emoji-match#readme",
+  "homepage": "https://github.com/muan/emoji-search#readme",
   "dependencies": {
-    "emojilib": "muan/emojilib",
-    "plur": "^2.1.2",
-    "tensify": "0.0.2"
+    "emojilib": "muan/emojilib"
   }
 }
