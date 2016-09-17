@@ -1,0 +1,24 @@
+{
+  "name": "emoji-match",
+  "version": "1.0.0",
+  "description": "Matching emoji by keyword",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muan/emoji-match.git"
+  },
+  "keywords": [
+    "emoji",
+    "search",
+    "match"
+  ],
+  "author": "Mu-An Chiou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muan/emoji-match/issues"
+  },
+  "homepage": "https://github.com/muan/emoji-match#readme"
+}
