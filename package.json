@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/muan/emoji-match/issues"
   },
-  "homepage": "https://github.com/muan/emoji-match#readme"
+  "homepage": "https://github.com/muan/emoji-match#readme",
+  "dependencies": {
+    "emojilib": "^2.0.2",
+    "plur": "^2.1.2",
+    "tensify": "0.0.2"
+  }
 }
