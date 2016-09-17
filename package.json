@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/muan/emoji-match#readme",
   "dependencies": {
-    "emojilib": "^2.0.2",
+    "emojilib": "muan/emojilib",
     "plur": "^2.1.2",
     "tensify": "0.0.2"
   }
