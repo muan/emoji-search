@@ -4,10 +4,10 @@
 
 ```javascript
 > const es = require('emoji-search')
-> console.log(es.search('panda'))
-  [ '🐼', '🎍' ]
-> console.log(es.search('v')[0])
-  ✌️
+> es('panda')
+[ '🐼', '🎍' ]
+> es('v')[0]
+✌️
 ```
 
 ## Development
