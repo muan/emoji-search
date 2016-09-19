@@ -4,7 +4,7 @@
   "description": "Search emoji by keyword",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "homepage": "https://github.com/muan/emoji-search#readme",
   "dependencies": {
     "emojilib": "muan/emojilib"
+  },
+  "devDependencies": {
+    "tape": "^4.6.0"
   }
 }
