@@ -1,6 +1,6 @@
 # emoji-search
 
-I made [muan/emojilib](https://github.com/muan/emojilib) because I wanted to build an emoji searcher. By now I have 3 projects doing emoji search, one web([emoji](http://emoji.muan.co)), one Electron app([mojibar](https://github.com/muan/mojibar)), one mruby command line tool([emoji-cli](https://github.com/muan/emoji-cli)), and each duplicating the search logic. About time this happens!
+I made [muan/emojilib](https://github.com/muan/emojilib) because I wanted to build an emoji searcher. By now I have 3 projects doing emoji search, one web([emoji](http://emoji.muan.co)), one Electron app([mojibar](https://github.com/muan/mojibar)), one mruby command line tool([emoji-cli](https://github.com/muan/emoji-cli)), and each duplicating the search logic. It's about time this happens!
 
 ## Usage
 
